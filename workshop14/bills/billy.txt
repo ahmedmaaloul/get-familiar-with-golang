@@ -1,0 +1,4 @@
+Bill breakdown: 
+fricasse:                 ...€2
+tip:                      ...€12
+total:                    ...€14.00
