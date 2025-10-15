@@ -33,8 +33,3 @@ The goal is to build a strong foundation by experimenting with syntax, data type
 15. **Parsing Floats**
 16. **Saving Files**
 17. **Interfaces**
-
----
-
-## 🧩 Repository Structure
-
